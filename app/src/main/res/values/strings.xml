@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ToDo</string>
+    <string name="title_note">Заголовок</string>
+    <string name="save">Сохранить</string>
+    <string name="desc_note">Введите описание...</string>
+    <string name="note_details_title">Новая запись</string>
+    <string name="tasks">Задачи</string>
+    <string name="empty_list">Список пуст</string>
+</resources>
